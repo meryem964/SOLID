@@ -1,0 +1,8 @@
+C:\Users\90551\meryem\KampIntro\ClassIntro\bin\Debug\ClassIntro.exe.config
+C:\Users\90551\meryem\KampIntro\ClassIntro\bin\Debug\ClassIntro.exe
+C:\Users\90551\meryem\KampIntro\ClassIntro\bin\Debug\ClassIntro.pdb
+C:\Users\90551\meryem\KampIntro\ClassIntro\obj\Debug\ClassIntro.csproj.AssemblyReference.cache
+C:\Users\90551\meryem\KampIntro\ClassIntro\obj\Debug\ClassIntro.csproj.SuggestedBindingRedirects.cache
+C:\Users\90551\meryem\KampIntro\ClassIntro\obj\Debug\ClassIntro.csproj.CoreCompileInputs.cache
+C:\Users\90551\meryem\KampIntro\ClassIntro\obj\Debug\ClassIntro.exe
+C:\Users\90551\meryem\KampIntro\ClassIntro\obj\Debug\ClassIntro.pdb
